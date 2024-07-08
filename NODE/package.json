@@ -1,0 +1,17 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "main": "module.js",
+  "type": "module",
+  "scripts": {
+    "test": "nodemon basicWebsite.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "nodemon": "^3.1.4",
+    "pdf-creator-node": "^2.3.5"
+  }
+}
